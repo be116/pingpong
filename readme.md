@@ -8,6 +8,7 @@
 # 遊び方
 - javaを導入済みの方
 	- appletフォルダ内にjavaアプレットをビルドしています。
+	- 実行ファイルはPingPong.jarです。
 - その他
 - processingを導入しましょう
 	- 主要ファイルはPingPong.pdeです。
